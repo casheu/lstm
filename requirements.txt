@@ -1,0 +1,12 @@
+streamlit
+joblib
+datetime
+snscrape
+pandas
+transformers
+torch
+nltk
+re
+tensorflow == 2.10
+sklearn == 1.1.3
+sastrawi
